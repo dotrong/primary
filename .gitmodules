@@ -1,0 +1,6 @@
+[submodule "plugs/mod-a"]
+	path = plugs/mod-a
+	url = git@github.com:dotrong/sub2.git
+[submodule "plugs/mod-b"]
+	path = plugs/mod-b
+	url = git@github.com:dotrong/sub1.git
